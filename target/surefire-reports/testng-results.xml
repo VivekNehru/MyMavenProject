@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66339" started-at="2018-08-05T11:51:04Z" finished-at="2018-08-05T11:52:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66339" started-at="2018-08-05T11:51:04Z" finished-at="2018-08-05T11:52:10Z">
+      <class name="mainPackage.TestExecute">
+        <test-method status="PASS" signature="newTest()[pri:0, instance:mainPackage.TestExecute@71318ec4]" name="newTest" is-config="true" duration-ms="4966" started-at="2018-08-05T11:50:59Z" finished-at="2018-08-05T11:51:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTest -->
+        <test-method status="PASS" signature="TestExecution()[pri:0, instance:mainPackage.TestExecute@71318ec4]" name="TestExecution" duration-ms="26995" started-at="2018-08-05T11:51:04Z" finished-at="2018-08-05T11:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestExecution -->
+        <test-method status="PASS" signature="TestExecution1()[pri:0, instance:mainPackage.TestExecute@71318ec4]" name="TestExecution1" duration-ms="38949" started-at="2018-08-05T11:51:31Z" finished-at="2018-08-05T11:52:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestExecution1 -->
+        <test-method status="PASS" signature="ReportGeneration()[pri:0, instance:mainPackage.TestExecute@71318ec4]" name="ReportGeneration" is-config="true" duration-ms="364" started-at="2018-08-05T11:52:10Z" finished-at="2018-08-05T11:52:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportGeneration -->
+        <test-method status="PASS" signature="closemethod()[pri:0, instance:mainPackage.TestExecute@71318ec4]" name="closemethod" is-config="true" duration-ms="1248" started-at="2018-08-05T11:52:10Z" finished-at="2018-08-05T11:52:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closemethod -->
+      </class> <!-- mainPackage.TestExecute -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
